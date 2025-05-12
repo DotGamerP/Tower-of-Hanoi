@@ -3,7 +3,7 @@ package types;
 /**
  * The class that manages Disks that can be used in Tower of Hanoi game
  * 
- * @author Pedro Reinaldo Mendes (nº63729)
+ * @author Pedro RM (Dot)
  * @version 1.0
  */
 public class Disk {
